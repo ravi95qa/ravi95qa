@@ -1,0 +1,81 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="395" viewBox="0 0 1200 395">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#071426"/>
+      <stop offset="1" stop-color="#080d18"/>
+    </linearGradient>
+    <linearGradient id="card" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#14243a"/>
+      <stop offset="1" stop-color="#101a2b"/>
+    </linearGradient>
+    <linearGradient id="blue" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#168cff"/>
+      <stop offset="1" stop-color="#00c2ff"/>
+    </linearGradient>
+    <style>
+      .heading{font:700 23px Arial,sans-serif;fill:#eef4ff}
+      .body{font:15px Arial,sans-serif;fill:#e7edf8}
+      .small{font:13px Arial,sans-serif;fill:#e7edf8}
+      .muted{font:12px Arial,sans-serif;fill:#aebdd2}
+      .skill{font:700 14px Arial,sans-serif;fill:#eef4ff}
+      .project{font:700 15px Arial,sans-serif;fill:#f2f6ff}
+      .border{stroke:#304764;stroke-width:1.2}
+    </style>
+  </defs>
+  <rect width="1200" height="395" rx="14" fill="url(#bg)"/>
+  <rect x="2" y="2" width="1196" height="101" rx="12" fill="#0b1729" stroke="#304764"/>
+  <text x="20" y="35" class="heading">👋 About Me</text>
+  <text x="20" y="62" class="body">I'm a passionate Software Testing and Quality Assurance enthusiast.</text>
+  <text x="20" y="84" class="body">I love finding defects, validating functionality, and helping build reliable software.</text>
+  <text x="1030" y="45" font-family="Georgia,serif" font-style="italic" font-size="27" fill="#f3f5fb" transform="rotate(-8 1030 45)">Test Better.</text>
+  <text x="1045" y="75" font-family="Georgia,serif" font-style="italic" font-size="27" fill="#f3f5fb" transform="rotate(-8 1045 75)">Ship Better.</text>
+  <path d="M1060 91 Q1115 105 1160 82" fill="none" stroke="#45df27" stroke-width="3"/>
+  <text x="5" y="137" font-size="27">🧪</text>
+  <text x="48" y="136" class="heading">Testing Skills</text>
+  <g>
+    <rect x="2" y="148" width="140" height="88" rx="11" fill="url(#card)" class="border"/>
+    <rect x="151" y="148" width="140" height="88" rx="11" fill="url(#card)" class="border"/>
+    <rect x="300" y="148" width="140" height="88" rx="11" fill="url(#card)" class="border"/>
+    <rect x="449" y="148" width="140" height="88" rx="11" fill="url(#card)" class="border"/>
+    <rect x="598" y="148" width="140" height="88" rx="11" fill="url(#card)" class="border"/>
+    <rect x="747" y="148" width="140" height="88" rx="11" fill="url(#card)" class="border"/>
+    <rect x="896" y="148" width="140" height="88" rx="11" fill="url(#card)" class="border"/>
+    <rect x="1045" y="148" width="153" height="88" rx="11" fill="url(#card)" class="border"/>
+  </g>
+  <g text-anchor="middle">
+    <text x="72" y="184" font-size="29">✅</text><text x="72" y="207" class="skill">Manual</text><text x="72" y="224" class="small">Testing</text>
+    <text x="221" y="184" font-size="29" fill="#12a8ff">‹/›</text><text x="221" y="207" class="skill">Test Design</text><text x="221" y="224" class="small">&amp; Analysis</text>
+    <text x="370" y="184" font-size="29">🐞</text><text x="370" y="207" class="skill">Bug Reporting</text><text x="370" y="224" class="small">&amp; Tracking</text>
+    <text x="519" y="184" font-size="29">⚙️</text><text x="519" y="207" class="skill">API Testing</text><text x="519" y="224" class="small">(Postman)</text>
+    <text x="668" y="184" font-size="29">🌐</text><text x="668" y="207" class="skill">Web Testing</text><text x="668" y="224" class="small">(UI/UX)</text>
+    <text x="817" y="184" font-size="29">🛢️</text><text x="817" y="207" class="skill">SQL</text><text x="817" y="224" class="small">(Database)</text>
+    <text x="966" y="184" font-size="29">🟩</text><text x="966" y="207" class="skill">Selenium</text><text x="966" y="224" class="small">(WebDriver)</text>
+    <text x="1121" y="184" font-size="29">🔷</text><text x="1121" y="207" class="skill">Jira</text><text x="1121" y="224" class="small">(Project Mgmt)</text>
+  </g>
+  <text x="5" y="278" font-size="27">🚀</text>
+  <text x="48" y="277" class="heading">Featured Projects</text>
+  <text x="1125" y="277" font="700 14px Arial" fill="#19baff">View all →</text>
+  <g>
+    <rect x="2" y="290" width="282" height="101" rx="11" fill="url(#card)" class="border"/>
+    <rect x="298" y="290" width="282" height="101" rx="11" fill="url(#card)" class="border"/>
+    <rect x="594" y="290" width="282" height="101" rx="11" fill="url(#card)" class="border"/>
+    <rect x="890" y="290" width="308" height="101" rx="11" fill="url(#card)" class="border"/>
+  </g>
+  <g>
+    <rect x="17" y="301" width="38" height="38" rx="8" fill="#18a34a"/><text x="36" y="328" text-anchor="middle" font-size="26">☑</text>
+    <text x="65" y="310" class="project">Selenium Automation</text><text x="65" y="330" class="small">Java + Selenium WebDriver</text><text x="65" y="347" class="small">Automation</text>
+    <text x="17" y="375" font-size="15" fill="#ffc629">★</text><text x="39" y="375" class="small">45</text><text x="84" y="375" class="small">⑂ 120</text><circle cx="263" cy="374" r="10" fill="#183e65"/><text x="263" y="379" text-anchor="middle" font-size="14" fill="#65baff">➜</text>
+
+    <circle cx="324" cy="320" r="18" fill="#ff6b35"/><text x="324" y="328" text-anchor="middle" font-size="24">🧪</text>
+    <text x="354" y="310" class="project">API Testing</text><text x="354" y="330" class="small">API Testing using Postman</text>
+    <text x="313" y="375" font-size="15" fill="#ffc629">★</text><text x="335" y="375" class="small">35</text><text x="380" y="375" class="small">⑂ 70</text><circle cx="559" cy="374" r="10" fill="#183e65"/><text x="559" y="379" text-anchor="middle" font-size="14" fill="#65baff">➜</text>
+
+    <rect x="609" y="301" width="38" height="38" rx="8" fill="#8b3ff0"/><text x="628" y="329" text-anchor="middle" font-size="26">✓</text>
+    <text x="657" y="310" class="project">Manual Testing</text><text x="657" y="330" class="small">Real-World Manual Testing</text><text x="657" y="347" class="small">Practice</text>
+    <text x="609" y="375" font-size="15" fill="#ffc629">★</text><text x="631" y="375" class="small">20</text><text x="676" y="375" class="small">⑂ 50</text><circle cx="855" cy="374" r="10" fill="#183e65"/><text x="855" y="379" text-anchor="middle" font-size="14" fill="#65baff">➜</text>
+
+    <rect x="905" y="301" width="38" height="38" rx="8" fill="#168cff"/><text x="924" y="329" text-anchor="middle" font-size="25">💼</text>
+    <text x="953" y="310" class="project">Job Scraper</text><text x="953" y="330" class="small">Java + Selenium Web Scraping</text>
+    <text x="905" y="375" font-size="15" fill="#ffc629">★</text><text x="927" y="375" class="small">18</text><text x="972" y="375" class="small">⑂ 40</text><circle cx="1177" cy="374" r="10" fill="#183e65"/><text x="1177" y="379" text-anchor="middle" font-size="14" fill="#65baff">➜</text>
+  </g>
+</svg>
