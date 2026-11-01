@@ -1,11 +1,11 @@
-<p align="center">
-  <img src="./software-testing-banner.png" width="100%">
-</p>
+
 # 👋 Hi, I'm Ravi Ranjan Kumar
 
 ### 🧪 Software Testing | QA Engineer | Manual Testing
 
 > **Find Bugs • Ensure Quality • Build Better Software**
+
+## 🚀 About Me
 
 I'm passionate about **Software Testing and Quality Assurance**.  
 I focus on finding defects, validating functionality, and helping build reliable software.
