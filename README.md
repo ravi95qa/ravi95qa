@@ -2,6 +2,7 @@
 
 I'm passionate about **Software Testing and Quality Assurance**.  
 I focus on finding defects, validating functionality, and helping build reliable software.
+<style=for-the-badge&logo=jira&logoColor=white"/>
 
 ---
 
