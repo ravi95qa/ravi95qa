@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="./software-testing-banner.png" width="100%">
+</p>
 # 👋 Hi, I'm Ravi Ranjan Kumar
 
 ### 🧪 Software Testing | QA Engineer | Manual Testing
